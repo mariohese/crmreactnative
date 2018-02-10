@@ -1,0 +1,11 @@
+Mario Hernando Segovia
+Manuel Rodríguez de la Coba
+
+G740
+
+Instalar el node_modules mediante el comando yarn install en vez de con npm install ya que de la segunda forma aparece un error.
+Posteriormente lo arrancaba con sudo npm start.
+
+Se ha probado en un dispositivo con Android 6.0.1 mediante la aplicación expo.
+
+No se ha realizado ninguna mejora
